@@ -9,7 +9,9 @@ I build a plugin using MVC
 
 # FrontEnd
 I create a React app to handle the users list from the db
-[EXPECTED]
+I used BootStrap library to handle responsive and styles
+
+# EXPECTED
 - Logged in user must be removed from displayed users list.
 - Every user card will display a button according the status of connection between current user and displayed user (ADD / REJECT)
 
